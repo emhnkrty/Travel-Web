@@ -26,7 +26,7 @@ const Footer = () => {
       <div className="secContent container">
         <div className="contactDiv flex">
           <div data-aos="fade-up" className="text">
-            <small>KEEP IN TOUCH</small>
+            <small>-KEEP IN TOUCH-</small>
             <h2>Travel with us</h2>
           </div>
           <div className="inputDiv flex">
